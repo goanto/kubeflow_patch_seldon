@@ -1,4 +1,8 @@
-# kubeflow_patch_seldon
+# kubeflow_patch_seldon 
+
+Kubeflow Patch fro kubernetes 1.16+
+
+
 Replace these files with kustomize/seldon-core-operator Directory
 
 
